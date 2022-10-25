@@ -1,0 +1,17 @@
+{
+  "name": "daydayup",
+  "version": "1.0.0",
+  "description": "Day Day Up",
+  "main": "index.js",
+  "repository": "git@github.com:swamm007/Day-Day-Up.git",
+  "author": "widewu <979610327@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.22"
+  }
+}
